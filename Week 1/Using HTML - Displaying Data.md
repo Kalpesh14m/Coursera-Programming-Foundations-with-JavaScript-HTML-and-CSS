@@ -100,8 +100,7 @@ should be inside the brackets of the original img tag, and there should be no en
 
 ---
 
-Question 8
-Consider the following HTML to display a table listing the names of different colors. 
+8. Consider the following HTML to display a table listing the names of different colors. 
 
 ![](https://user-images.githubusercontent.com/25608527/118540948-c25b9700-b76e-11eb-9b20-c608864a4df5.png)
 

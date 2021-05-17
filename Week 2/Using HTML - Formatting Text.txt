@@ -1,0 +1,39 @@
+Question 1. Consider the following simple HTML file shown below.
+<html>
+<title> Birds </title>
+<body>
+<h1> Eagles </h1>
+</body>
+</html>
+
+Question 2. Consider the following line from a web page:
+Time for Back to School, SALES GALORE!, Coupons online, open early
+As you can see, “Back to School,” is shown in bold, “SALES GALORE!” is shown in bold and italics, and “Coupons online,” is also shown in bold. The rest of the words have no bold or emphasis.
+
+Which of the following is the HTML to generate this line?
+==>
+<p> Time for <b> Back to School, 
+<em> SALES GALORE! </em> ,
+Coupons online, </b>
+open early </p>
+
+
+Question 3. Consider the following HTML segment for a web page.
+<h3> Tiger Babies </h3>
+<p> Zebra Babies </p>
+<h1> Elephant Babies </h1>
+
+
+Question 4. Consider the following HTML that is showing just the body HTML code for a website with line numbers. 
+==>
+The tag </h1> should be placed at the end of line 6
+
+Question 5. Which one of the following HTML tags is NOT a metadata element?
+==> <h3>
+
+Question 6
+Consider the following HTML segment for a web page.
+
+Question 7
+Consider the following phrase that is displayed on a web page:
+=>
